@@ -1,8 +1,8 @@
 <h1> Predicting temperature with air quality data</h1>
 <br/>
 <img src="https://github.com/sainosmichelle/Air_Quality_Regression/blob/master/images/regresion.png"
-  width="800"
-  height="500">
+  width="600"
+  height="200">
 
 <p>Python notebook to predict temperature from the <a href="https://github.com/phelber/EuroSAT" title="Title">Air Quality dataset</a> in Python 3. </p>
 
